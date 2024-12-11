@@ -47,7 +47,7 @@ Objective: Develop a predictive model to assess the likelihood of customers buyi
 - Summarized findings in a single PowerPoint slide.
 - Provided an interpretation of the model's predictive power and its feasibility for future use.
 
-### Environment and Tools
+## Environment and Tools
 **Programming Languages:**
 Python (for data analysis and predictive modeling)
 
