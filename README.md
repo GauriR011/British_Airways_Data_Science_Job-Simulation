@@ -10,17 +10,41 @@ This project involved two key tasks: analyzing customer feedback data to derive 
 Objective: Scrape and collect customer feedback, analyze it for insights, and present findings visually.
 Subtasks:
 
-Data Collection:
-
-Scraped customer feedback from a third-party source.
+**Data Collection:**
+Scraped customer feedback from a third-party source using Beautiful Soup library.
 Aggregated and cleaned the collected data for analysis.
 
-Data Analysis:
-
+**Data Analysis:**
 Performed text analysis and sentiment analysis to uncover customer sentiment trends.
 Identified key themes and pain points based on customer feedback.
 
-Presentation of Insights:
-
+**Presentation of Insights:**
 Created a PowerPoint presentation to summarize findings.
 Highlighted actionable insights to improve customer experience.
+
+
+### Task 2: Predictive Modeling on Customer Booking Data
+Objective: Develop a predictive model to assess the likelihood of customers buying holidays.
+
+#### Subtasks:
+
+**Data Preparation:**
+Cleaned and preprocessed the provided dataset.
+Performed exploratory data analysis (EDA) to understand patterns and relationships within the data.
+Engineered features to enhance model performance.
+Used correlation matrix to determine the features that affected the target column
+
+**Model Development:**
+Trained a RandomForest model to predict the target outcome (customer purchases).
+Conducted hyperparameter tuning to optimize model performance.
+
+**Model Evaluation:**
+Evaluated the model's performance using cross-validation.
+Computed relevant evaluation metrics (e.g., accuracy, precision, recall, F1 score).
+Identified feature importance to understand variable contributions to model predictions.
+
+**Presentation of Results:**
+Summarized findings in a single PowerPoint slide.
+Provided an interpretation of the model's predictive power and its feasibility for future use.
+
+
