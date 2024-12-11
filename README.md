@@ -47,4 +47,18 @@ Objective: Develop a predictive model to assess the likelihood of customers buyi
 - Summarized findings in a single PowerPoint slide.
 - Provided an interpretation of the model's predictive power and its feasibility for future use.
 
+### Environment and Tools
+**Programming Languages:**
+Python (for data analysis and predictive modeling)
+
+**Libraries and Frameworks:**
+- Pandas, NumPy (data manipulation and preprocessing)
+- Matplotlib, Seaborn (data visualization)
+- Scikit-learn (model training and evaluation)
+- BeautifulSoup (web scraping for Task 1)
+
+**Tools:**
+- Jupyter Notebook (for code development)
+- Microsoft PowerPoint (for presenting insights and findings)
+
 
