@@ -8,7 +8,8 @@ This project involved two key tasks: analyzing customer feedback data to derive 
 ## Tasks
 ### Task 1: Customer Feedback Analysis
 Objective: Scrape and collect customer feedback, analyze it for insights, and present findings visually.
-Subtasks:
+
+#### Subtasks:
 
 **Data Collection:**
 -  Scraped customer feedback from a third-party source using Beautiful Soup library.
@@ -22,6 +23,7 @@ Subtasks:
 - Created a PowerPoint presentation to summarize findings.
 - Highlighted actionable insights to improve customer experience.
 
+![alt text](https://github.com/GauriR011/British_Airways_Data_Science_Job-Simulation/blob/main/Screenshots/BA_Analysis.png)
 
 ### Task 2: Predictive Modeling on Customer Booking Data
 Objective: Develop a predictive model to assess the likelihood of customers buying holidays.
@@ -46,6 +48,8 @@ Objective: Develop a predictive model to assess the likelihood of customers buyi
 **Presentation of Results:**
 - Summarized findings in a single PowerPoint slide.
 - Provided an interpretation of the model's predictive power and its feasibility for future use.
+
+![alt text](https://github.com/GauriR011/British_Airways_Data_Science_Job-Simulation/blob/main/Screenshots/BA_Modelling.png)
 
 ## Environment and Tools
 **Programming Languages:**
